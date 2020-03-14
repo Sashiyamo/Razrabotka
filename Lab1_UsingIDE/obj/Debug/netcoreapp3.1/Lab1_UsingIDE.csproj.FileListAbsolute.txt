@@ -1,0 +1,11 @@
+D:\Саша\Программирование\4 семестр\Lab1_UsingIDE\obj\Debug\netcoreapp3.1\Lab1_UsingIDE.csprojAssemblyReference.cache
+D:\Саша\Программирование\4 семестр\Lab1_UsingIDE\obj\Debug\netcoreapp3.1\Lab1_UsingIDE.AssemblyInfoInputs.cache
+D:\Саша\Программирование\4 семестр\Lab1_UsingIDE\obj\Debug\netcoreapp3.1\Lab1_UsingIDE.AssemblyInfo.cs
+D:\Саша\Программирование\4 семестр\Lab1_UsingIDE\bin\Debug\netcoreapp3.1\Lab1_UsingIDE.exe
+D:\Саша\Программирование\4 семестр\Lab1_UsingIDE\bin\Debug\netcoreapp3.1\Lab1_UsingIDE.deps.json
+D:\Саша\Программирование\4 семестр\Lab1_UsingIDE\bin\Debug\netcoreapp3.1\Lab1_UsingIDE.runtimeconfig.json
+D:\Саша\Программирование\4 семестр\Lab1_UsingIDE\bin\Debug\netcoreapp3.1\Lab1_UsingIDE.runtimeconfig.dev.json
+D:\Саша\Программирование\4 семестр\Lab1_UsingIDE\bin\Debug\netcoreapp3.1\Lab1_UsingIDE.dll
+D:\Саша\Программирование\4 семестр\Lab1_UsingIDE\bin\Debug\netcoreapp3.1\Lab1_UsingIDE.pdb
+D:\Саша\Программирование\4 семестр\Lab1_UsingIDE\obj\Debug\netcoreapp3.1\Lab1_UsingIDE.dll
+D:\Саша\Программирование\4 семестр\Lab1_UsingIDE\obj\Debug\netcoreapp3.1\Lab1_UsingIDE.pdb
