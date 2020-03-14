@@ -39,5 +39,13 @@ namespace _4sem1lab
         {
             c = a / b;
         }
+        public void SumSub(double a, double b, double c)
+        {
+            c = a + b - a;
+        }
+        public void MulDiv(double a, double b, double c)
+        {
+            c = a * b / a;
+        }
     }
 }
