@@ -47,5 +47,6 @@ namespace _4sem1lab
         {
             c = a * b / a;
         }
+        
     }
 }
