@@ -17,7 +17,7 @@ namespace _4sem1lab
                 if (str == "double")
                 {
                     Console.WriteLine("Enter first number");
-                    return a = Convert.ToDouble(Console.ReadLine());
+                    a = Convert.ToDouble(Console.ReadLine());
 
                     Console.WriteLine("Enter second number");
                     b = Convert.ToDouble(Console.ReadLine());
