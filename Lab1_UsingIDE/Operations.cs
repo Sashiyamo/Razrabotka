@@ -39,6 +39,13 @@ namespace _4sem1lab
         {
             c = a / b;
         }
-        
+        public void Max(double a, double b, double c)
+        {
+            c = Math.Max(a, b);
+        }
+        public void Min(double a, double b, double c)
+        {
+            c = Math.Min(a, b);
+        }
     }
 }
